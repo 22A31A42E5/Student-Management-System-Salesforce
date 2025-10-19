@@ -10,8 +10,6 @@ This leads to:
 
 The absence of a centralized, automated system causes inefficiencies in managing student records, calculating fees, and generating reports.  
 
----
-
 ## Proposed Salesforce Solution
 The **Salesforce Student Management System (EduCRM)** provides a unified CRM platform for automating student registration, course enrollment, payment tracking, and reporting.  
 
@@ -27,8 +25,6 @@ The **Salesforce Student Management System (EduCRM)** provides a unified CRM pla
   - Course-wise enrollment distribution  
   - Monthly collection trends  
 
----
-
 ## Key Features & Automations
 - **Apex Trigger:** Updates student’s total fees paid automatically.  
 - **Flows:** Sends confirmation emails upon new student creation.  
@@ -36,8 +32,6 @@ The **Salesforce Student Management System (EduCRM)** provides a unified CRM pla
 - **Approval Process:** Handles refund requests requiring admin approval.  
 - **Security & Roles:** Custom profiles for Admin, Counselor, Accountant, and Principal.  
 - **Experience Cloud Portal:** Allows students to log in and view fee status.  
-
----
 
 ## Reports & Dashboards
 - **Reports Created:**
@@ -49,16 +43,12 @@ The **Salesforce Student Management System (EduCRM)** provides a unified CRM pla
   - Total Fees Collected  
   - Course-Wise Distribution  
 
----
-
 ## Key Benefits
 - **Automation:** Eliminates manual calculations and repetitive HR tasks.  
 - **Transparency:** Students and admins have real-time visibility into records.  
 - **Data Accuracy:** Reduces errors in payments and enrollment tracking.  
 - **Efficiency:** Saves time for finance and administration teams.  
 - **Analytics:** Helps management make informed academic and financial decisions.  
-
----
 
 ## DEMO VIDEO LINK
 🎥 [Click to View Demo](https://drive.google.com/file/d/1BifjF7ldNUKOQWi-AFR7tGL-MzICW1N5/view?usp=drivesdk)
