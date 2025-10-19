@@ -53,8 +53,6 @@ The **Salesforce Student Management System (EduCRM)** provides a unified CRM pla
 ## DEMO VIDEO LINK
 🎥 [Click to View Demo](https://drive.google.com/file/d/1BifjF7ldNUKOQWi-AFR7tGL-MzICW1N5/view?usp=drivesdk)
 
----
-
 **Author:** Patneedi Naga Venkata Sri Sailaja  
 **Platform:** Salesforce Developer Org  
 **Project Type:** CRM Application
